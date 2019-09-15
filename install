@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+echo "Creating link to workdirs script at: /usr/bin/workdir"
+sudo ln -s $PWD/workdirs.rb /usr/bin/workdir
